@@ -6,8 +6,7 @@ This is Homestar Runner as it looked from its inception in 2000 till the death o
 
 ## CHANGES FROM THE ORIGINAL SITE (as of the last update):
 
-* I have merged the best parts from the current HTML5 Toons menu into the old Flash Toons menu.
-** Powered by The Cheat is therefore back as a category, I have given Puppet Stuff its menu preview, and Video Stuff is also a category.
+* I have merged the best parts from the current HTML5 Toons menu into the old Flash Toons menu. Therefore: Powered by The Cheat is back as a category, I have given Puppet Stuff its menu preview, and Video Stuff is also a category.
 
 ## CHANGELOG:
 
