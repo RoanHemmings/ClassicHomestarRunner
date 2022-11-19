@@ -6,11 +6,13 @@ This is Homestar Runner as it looked from its inception in 2000 till the death o
 
 ## CHANGES FROM THE ORIGINAL SITE (as of the last update):
 
+* All toons post Halloween Hijinks are now presented like the Flash Site is.
+
 * I have merged the best parts from the current HTML5 Toons menu into the old Flash Toons menu. Therefore: Powered by The Cheat is back as a category, I have given Puppet Stuff its menu preview, and Video Stuff is also a category.
 
 ## CHANGELOG:
 
-* 19/11/2022 - Created Repository, and created new version of Flash Toons Menu.
+* 19/11/2022 - Created Repository, created new version of Flash Toons Menu, and added all Toons released after Halloween Hijinks.
 
 ## CURRENT DEPLOY STATUS:
 
