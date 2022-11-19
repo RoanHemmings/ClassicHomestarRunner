@@ -8,11 +8,15 @@ This is Homestar Runner as it looked from its inception in 2000 till the death o
 
 * All toons post Halloween Hijinks are now presented like the Flash Site is.
 
-* I have merged the best parts from the current HTML5 Toons menu into the old Flash Toons menu. Therefore: Powered by The Cheat is back as a category, I have given Puppet Stuff its menu preview, and Video Stuff is also a category.
+* I have merged the best parts from the current HTML5 Toons menu into the old Flash Toons menu. Therefore: Powered by The Cheat is back as a category, I have given Puppet Stuff its menu preview, and Video Stuff is also a category. Toons either not on the menu or previously on the menu but taken off are readded.
+
+* All versions of Old Flash Stuff are combined, to produce a more coherent version of the page, Marshmallows Last Stand is reinstated.
 
 ## CHANGELOG:
 
-* 19/11/2022 - Created Repository, created new version of Flash Toons Menu, and added all Toons released after Halloween Hijinks.
+* 19/11/2022 - Added Old Flash Stuff, and also added every toon released in 2000.
+
+* 18/11/2022 - Created Repository, created new version of Flash Toons Menu, and added all Toons released after Halloween Hijinks.
 
 ## CURRENT DEPLOY STATUS:
 
